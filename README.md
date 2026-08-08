@@ -123,6 +123,12 @@ A full-featured portal built for my college's Head of Department — handling co
 ---
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushNeedsCaffeine&theme=tokyo-night" />
+</p>
+
+---
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushNeedsCaffeine/AyushNeedsCaffeine/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushNeedsCaffeine/AyushNeedsCaffeine/output/github-contribution-grid-snake.svg" />
