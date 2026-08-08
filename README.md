@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;RAG+and+LLM+Systems+Builder;n8n+Automation+Engineer;Python+Backend+Developer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;RAG+and+LLM+Systems+Builder;n8n+Automation+Engineer;Generative+AI+&+LLM+Explorer;Python+Developer;Building+in+Public;Open+Source+Learner" />
 </p>
 
 ---
