@@ -9,10 +9,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Enthusiast;RAG+and+LLM+Systems+Builder;Multi-Agent+Systems+with+LangGraph;n8n+Automation+Engineer;Generative+AI+%26+LLM+Explorer;Python+Developer;Building+in+Public;LangChain+LangGraph+LangSmith;Transformer+architecture;" />
 </p>
+---
+
+## GitHub Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushNeedsCaffeine&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/VISITORS-TOTAL-00ff41?style=for-the-badge&labelColor=555555" alt="Visitors" />
+  <a href="https://github.com/AyushNeedsCaffeine">
+    <img src="https://img.shields.io/github/followers/AyushNeedsCaffeine?label=Followers&style=for-the-badge&logo=github&color=0284C7&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-GenAI_%26_LLMs-10B981?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=AyushNeedsCaffeinej&style=for-the-badge&color=6366F1&label=Profile+Views"/>
 </p>
 
 ---
